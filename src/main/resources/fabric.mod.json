@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "net.benjamin.fabricmod.FabricMod"
+    ],
+    "client": [
+      "net.benjamin.fabricmod.FabricClientMod"
     ]
   },
   "mixins": [
